@@ -1,0 +1,11 @@
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\bin\Debug\lap2n1.exe.config
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\bin\Debug\lap2n1.exe
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\bin\Debug\lap2n1.pdb
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\bin\Debug\lap2n1.xml
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.vbprojResolveAssemblyReference.cache
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.Form1.resources
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.Resources.resources
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.vbproj.GenerateResource.Cache
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.exe
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.xml
+c:\users\chaiwat\documents\visual studio 2017\Projects\VB\lap2n1\lap2n1\obj\Debug\lap2n1.pdb
