@@ -79,6 +79,12 @@
       <DependentUpon>Lap1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Lap2.Designer.vb">
+      <DependentUpon>Lap2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Lap2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
